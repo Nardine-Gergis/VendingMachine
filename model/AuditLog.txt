@@ -1,0 +1,33 @@
+10-8-2021 06:30:08 There is no such item in the inventory: Chips
+10-8-2021 06:32:05 There is no such item in the inventory: Cocaola
+10-8-2021 06:32:17 Item: CocacolaPurchased sucessfully.
+10-8-2021 06:32:37 There is no such item in the inventory: wdqwe
+10-8-2021 06:32:56 Money amount: 1 is less than item: Cocacola cost.
+10-8-2021 06:55:22 Item: Lays purchased sucessfully.
+10-8-2021 06:56:26 Item: Cocacola purchased sucessfully.
+10-8-2021 06:57:39 There is no such item in the inventory: Lays
+10-8-2021 06:58:55 Item: Lays purchased sucessfully.
+10-8-2021 06:59:06 There is no such item in the inventory: Lays
+10-8-2021 06:59:20 There is no such item in the inventory: Cocacola
+10-8-2021 07:01:09 Money amount: 1 is less than item: Lays cost.
+10-8-2021 07:01:19 Item: Lays purchased sucessfully.
+10-8-2021 07:02:38 Money amount: 1 is less than item: Lays cost.
+10-8-2021 07:02:48 Item: Lays purchased sucessfully.
+10-8-2021 07:03:52 There is no such item in the inventory: Lays
+10-8-2021 07:04:14 Item: Lays purchased sucessfully.
+10-8-2021 07:06:04 There is no such item in the inventory: Cocacola
+10-8-2021 07:08:34 Item: Lays purchased sucessfully.
+10-8-2021 07:08:53 Item: Cocacola purchased sucessfully.
+10-8-2021 07:08:57 Item: Cocacola purchased sucessfully.
+10-8-2021 07:09:12 There is no such item in the inventory: q
+10-8-2021 07:09:26 Item: Cocacola purchased sucessfully.
+10-8-2021 07:09:38 Item: Cocacola purchased sucessfully.
+10-8-2021 07:10:15 Item: Cocacola purchased sucessfully.
+10-8-2021 07:11:10 Item: Cocacola purchased sucessfully.
+10-8-2021 07:12:46 Item: Lays purchased sucessfully.
+10-8-2021 07:12:51 Money amount: 1 is less than item: Lays cost.
+10-8-2021 07:12:58 There is no such item in the inventory: adasd
+10-8-2021 03:33:37 Item: Lays purchased sucessfully.
+10-8-2021 03:37:28 Item: Pepsi purchased sucessfully.
+10-8-2021 03:37:57 Money amount: 1 is less than item: Lays cost.
+10-8-2021 03:39:10 Item: Lays purchased sucessfully.
